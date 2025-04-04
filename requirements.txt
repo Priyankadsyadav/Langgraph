@@ -4,3 +4,5 @@ langchain_community
 langchain_groq
 dotenv
 langgraph
+streamlit
+Pydantic
